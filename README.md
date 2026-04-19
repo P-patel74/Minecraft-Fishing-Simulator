@@ -1,2 +1,2 @@
 # Minecraft-Fishing-Simulator
-A JavaScript Minecraft fishing simulator that catches different fish based on the selected character’s probabilities.
+This project is a JavaScript Minecraft fishing simulator where users can choose a character and catch different types of fish with unique probability rates. Each character has different chances of catching cod, salmon, tropical fish, or pufferfish. The program tracks the number of each fish caught, updates images dynamically, and displays totals on the page. It uses functions, conditionals, random number generation, variables, and DOM manipulation to create an interactive experience.
